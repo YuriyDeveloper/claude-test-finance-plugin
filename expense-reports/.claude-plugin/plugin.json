@@ -1,0 +1,8 @@
+{
+  "name": "expense-reports",
+  "displayName": "Expense Reports",
+  "version": "1.0.0",
+  "description": "File, track, and approve expense reports from a conversation, using your finance system's connector and your company's approval rules.",
+  "author": { "name": "Example Corp", "url": "https://example.com" },
+  "license": "MIT"
+}
